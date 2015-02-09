@@ -1,3 +1,3 @@
 # Exadel Education
 
-# This repository contains all relevant set of lectures for students
+This repository contains all relevant set of lectures for students
